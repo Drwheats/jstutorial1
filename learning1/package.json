@@ -1,0 +1,11 @@
+{
+  "name": "learning1",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cron": "^1.8.2",
+    "fs.promises": "^0.1.2",
+    "nodemailer": "^6.7.3",
+    "puppeteer": "^13.5.2"
+  }
+}
